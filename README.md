@@ -14,12 +14,7 @@ Note that you do not need to solve the problem.
 
 * Contains a clear and simple restatement of the problem that:
   * Identifies the data
-    * A river with unlimited water
-    * A way to measure 4 quarts
-    * A way to measure 9 quarts
   * Identifies the unknown
-    * The method for measuring 6 quarts of water
   * Identifies the constraint
-    * You can only measure 4 or 9 quarts at a time
 * Identifies a plausible difficulty with the problem
 * Details 2 plausible approaches to solving the problem
